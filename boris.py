@@ -1,8 +1,6 @@
 
 import yaml
 from astropy.table import Table
-
-import sqlutil
 from database import Database as WSDB
 
 
